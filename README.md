@@ -1,2 +1,2 @@
 # Envio-Boleto-Automatizado
-Envio de Boletos Automatizado por E-mail
+Script em Python para envio de e-mail com boleto anexo
